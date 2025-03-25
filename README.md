@@ -1,1 +1,2 @@
-# quagstats.com
+# Quagstats
+Welcome to the Quagstats github
